@@ -1,5 +1,5 @@
 # Analysis of Simulated Tillage Runoff Temperature Data
-# Created by AJ Brown
+# Created by AJ Brown and Abby Coney
 # 7 Jul 2025
 
 library(ggplot2)
